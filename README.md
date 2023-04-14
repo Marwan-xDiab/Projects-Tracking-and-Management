@@ -12,6 +12,7 @@ To enhance project management, resolve certain data discrepancies, find trends a
 - How many are overdue?
 - Determine the SLA for tickets based on severity and project duration.
 
+Dashboard Link : https://www.novypro.com/project/dashboard-38
 ## Tools
 - Python 
 - Power BI
